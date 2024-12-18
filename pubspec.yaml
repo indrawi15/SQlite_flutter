@@ -1,0 +1,21 @@
+name: pertemuan13
+description: "A new Flutter project."
+publish_to: 'none' # Prevent accidental publishing
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  path_provider: ^2.0.11 # Tambahkan dependency path_provider di sini
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
